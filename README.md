@@ -1,4 +1,4 @@
-[Battery Storage-BOM.csv](https://github.com/user-attachments/files/29467820/Battery.Storage-BOM.csv)# Honeycomb Battery Storage
+## Honeycomb Battery Storage
 A storage for yours 1.5 V Type D battery Size, not just that you could make yours storage as a decoration too in your room
 
 ## Description 
