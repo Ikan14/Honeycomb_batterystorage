@@ -15,6 +15,8 @@ Below here is the full CAD assembly of the project, the .STEP files on the /CAD 
 ## Sources
 https://cad.onshape.com/documents/a158ba2377bff8c5a5c9677b/w/461ebf15fc62e7a67720336b/e/f1751da4e55d6d8092a85c13?renderMode=0&uiState=6a42605f13c63679a39bd9ea
 
+The file sources that i made in Onshape
+
 ## Features :D
 - Have a 5 slot for Battery type D
 - 2 slot for mini figures or small decoration
@@ -29,5 +31,6 @@ https://cad.onshape.com/documents/a158ba2377bff8c5a5c9677b/w/461ebf15fc62e7a6772
 | :--- | :--- | :---: | :---: | :--- |
 | **Printing** | To have the 3D print model | 1 | $0.00 | [Stasis Dashboard](https://hackclub.com) / Brother's 3D printer |
 
+Because it doesn't need any part for this project
 
 
