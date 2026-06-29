@@ -25,9 +25,9 @@ https://cad.onshape.com/documents/a158ba2377bff8c5a5c9677b/w/461ebf15fc62e7a6772
 -  BOM (Bill of Material)
 
 ### Bill of Materials (BOM)
-
-| Nama Komponen | Tujuan | Jumlah | Total Biaya (USD) | Tautan / Distributor |
+| Component Name | Purpose | Quantity | Total Cost (USD) | Link / Distributor |
 | :--- | :--- | :---: | :---: | :--- |
-| **Printing** | Tempat cetak model 3D | 1 | $0.00 | [Stasis Dashboard](https://hackclub.com) / Printer 3D Kakak |
+| **Printing** | To have the 3D print model | 1 | $0.00 | [Stasis Dashboard](https://hackclub.com) / Brother's 3D printer |
+
 
 
