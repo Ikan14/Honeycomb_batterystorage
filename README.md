@@ -25,8 +25,9 @@ https://cad.onshape.com/documents/a158ba2377bff8c5a5c9677b/w/461ebf15fc62e7a6772
 -  BOM (Bill of Material)
 
 ## BOM
-[Battery Storage-BOM.csv](https://github.com/user-attachments/files/29467825/Battery.Storage-BOM.csv)
+[Battery Storage-BOM.csv](https://github.com/user-attachments/files/29467852/Battery.Storage-BOM.csv)
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 Printing,ti have the 3D print model,1,0,https://stasis.hackclub.com/dashboard/projects/cmoe1687501h601mx11j0mocg,My brother's 3D printer
+
 
 
