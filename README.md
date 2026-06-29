@@ -1,4 +1,4 @@
-# Honeycomb Battery Storagea 
+[Battery Storage-BOM.csv](https://github.com/user-attachments/files/29467820/Battery.Storage-BOM.csv)# Honeycomb Battery Storage
 A storage for yours 1.5 V Type D battery Size, not just that you could make yours storage as a decoration too in your room
 
 ## Description 
@@ -12,6 +12,8 @@ Behind the story for the making of this storage was because of unitentional. not
 Below here is the full CAD assembly of the project, the .STEP files on the /CAD Files Folder
 <img width="3504" height="2478" alt="Part Studio 1 (3)" src="https://github.com/user-attachments/assets/92fd594b-9d62-4dcb-b434-c866cd9a179e" />
 
+## Sources
+https://cad.onshape.com/documents/a158ba2377bff8c5a5c9677b/w/461ebf15fc62e7a67720336b/e/f1751da4e55d6d8092a85c13?renderMode=0&uiState=6a42605f13c63679a39bd9ea
 
 ## Features :D
 - Have a 5 slot for Battery type D
@@ -19,8 +21,12 @@ Below here is the full CAD assembly of the project, the .STEP files on the /CAD 
 
 ## Files Included
 - CAD files (.STEP & source)
+- Onshape project sources
+-  BOM (Bill of Material)
 
-
-
+## BOM
+[Battery Storage-BOM.csv](https://github.com/user-attachments/files/29467825/Battery.Storage-BOM.csv)
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+Printing,ti have the 3D print model,1,0,https://stasis.hackclub.com/dashboard/projects/cmoe1687501h601mx11j0mocg,My brother's 3D printer
 
 
